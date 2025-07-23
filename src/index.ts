@@ -28,7 +28,6 @@ export default {
       lat = null;
       lon = null;
     }
-    console.log(from, bodyLines[0], lat, lon, googlemapsUrl);
 
     // Post to Misskey
     let note = "";
