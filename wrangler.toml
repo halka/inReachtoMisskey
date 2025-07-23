@@ -1,0 +1,7 @@
+name = "email-worker"
+main = "src/index.ts"
+compatibility_date = "2023-08-15"
+
+[[email]]
+type = "send"
+name = "EMAIL"
