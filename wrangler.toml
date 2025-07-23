@@ -1,4 +1,4 @@
-name = "email-worker"
+name = 'garmin2misskey'
 main = "src/index.ts"
 compatibility_date = "2023-08-15"
 
